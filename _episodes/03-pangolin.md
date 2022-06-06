@@ -37,7 +37,7 @@ Before start using PPanGGOLiN, activate the Pangenomics environment
 ~~~
 conda activate Pangenomics
 ~~~
-{: .source}
+{: .bash}
 
 ~~~
 (Pangenomics) betterlab@betterlabub:~$
