@@ -35,7 +35,7 @@ Step by step pangenome analysis with PPanGGOLiN
 Before start using PPanGGOLiN, activate the Pangenomics environment 
 
 ~~~
-conda activate Pangenomics
+$ conda activate Pangenomics
 ~~~
 {: .bash}
 
